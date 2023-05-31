@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'backendriveraweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5507B607883C46EF9D29349CE858907B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30EE0DBC05714F5988B5C094F8D55982 }}
           package: .
